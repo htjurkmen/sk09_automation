@@ -65,7 +65,7 @@ public class Exercises {
         System.out.println("Enter side a size");
         float a = myObj.nextFloat();
 
-        System.out.println("Enter h size");
+        System.out.println("Enter side b size");
         float h = myObj.nextFloat();
 
         float area = (a * h) / 2;
