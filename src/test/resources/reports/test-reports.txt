@@ -1,0 +1,1 @@
+This folder is used to store all test reports files generated during the test executions!
